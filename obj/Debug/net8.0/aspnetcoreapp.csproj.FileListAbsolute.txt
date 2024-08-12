@@ -28,3 +28,4 @@
 /Users/chadhindsight/aspnetcoreapp/obj/Debug/net8.0/aspnetcoreapp.pdb
 /Users/chadhindsight/aspnetcoreapp/obj/Debug/net8.0/aspnetcoreapp.genruntimeconfig.cache
 /Users/chadhindsight/aspnetcoreapp/obj/Debug/net8.0/ref/aspnetcoreapp.dll
+/Users/chadhindsight/aspnetcoreapp/obj/Debug/net8.0/aspnetcoreapp.sourcelink.json
